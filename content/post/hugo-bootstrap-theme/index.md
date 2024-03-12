@@ -16,16 +16,16 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- Discover Unique Handmade Items
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Explore a vast marketplace of handmade items from sellers around the world. Find everything from unique jewelry and apparel to custom furniture and art. Dive into a world where every item tells a story and supports independent creators.
 
-- ⚡ Fast by default
+- Sell Your Craft
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+  Turn your passion into profit by opening a shop on our platform. List your handmade items with ease and reach millions of buyers looking for something special. Whether you're a hobbyist or a professional artisan, our platform is designed to showcase your work and grow your business.
 
-- 📈 SEO-ready
+- Secure Checkout with Multiple Payment Options
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+  Enjoy a seamless shopping experience with secure checkout options, including PayPal. Our platform ensures that your purchase is safe, secure, and convenient, letting you shop with confidence from anywhere in the world.
 
 Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
