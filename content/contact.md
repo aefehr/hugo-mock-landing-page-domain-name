@@ -9,3 +9,5 @@ menu:
 # Contact
 
 Email me at fehra@sas.upenn.edu
+
+[Open an issue](https://github.com/aefehr/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
